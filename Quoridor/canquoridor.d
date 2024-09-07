@@ -1,0 +1,13 @@
+.\canquoridor.o: Quoridor\CANquoridor.c
+.\canquoridor.o: Quoridor\CANquoridor.h
+.\canquoridor.o: Quoridor\Mossa.h
+.\canquoridor.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\canquoridor.o: Quoridor\../GLCD/GLCD.h
+.\canquoridor.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\canquoridor.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\canquoridor.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\canquoridor.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\canquoridor.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\canquoridor.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\canquoridor.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\canquoridor.o: Quoridor\../CAN/CAN.h
