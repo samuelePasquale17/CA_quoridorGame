@@ -1,0 +1,17 @@
+.\quoridorgui.o: Quoridor\QuoridorGUI.c
+.\quoridorgui.o: Quoridor\../GLCD/GLCD.h
+.\quoridorgui.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\LPC17xx.h
+.\quoridorgui.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h
+.\quoridorgui.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\quoridorgui.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h
+.\quoridorgui.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h
+.\quoridorgui.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h
+.\quoridorgui.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h
+.\quoridorgui.o: C:\Users\samuelepasquale\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\quoridorgui.o: Quoridor\QuoridorGUI.h
+.\quoridorgui.o: Quoridor\Quoridor.h
+.\quoridorgui.o: Quoridor\Giocatore.h
+.\quoridorgui.o: Quoridor\Mossa.h
+.\quoridorgui.o: Quoridor\Muro.h
+.\quoridorgui.o: Quoridor\ST.h
+.\quoridorgui.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
